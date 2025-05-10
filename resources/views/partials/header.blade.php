@@ -1,8 +1,13 @@
 <header class="header d-flex align-items-center fixed-top" id="header">
     <div class="container-fluid container-xl position-relative d-flex align-items-center justify-content-between">
         <a class="logo d-flex align-items-center" href="{{ url('/') }}">
-            <h1 class="sitename">Nguyễn Văn Hiếu</h1>
+            <!-- Hiện trên mobile -->
+            <h5 class="sitename text-white d-block d-md-none">Nguyễn Văn Hiếu</h5>
+
+            <!-- Hiện trên desktop -->
+            <h3 class="sitename text-white d-none d-md-block">Nguyễn Văn Hiếu</h3>
         </a>
+
 
         <nav class="navmenu" id="navmenu">
             <ul>
@@ -32,7 +37,7 @@
                         <li><a href="#">LASA</a></li>
                     </ul>
                 </li>
-                
+
             </ul>
         </nav>
 

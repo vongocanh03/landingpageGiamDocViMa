@@ -10,7 +10,7 @@
     <a class="logo d-flex align-items-center" href="index.html">
       <!-- Uncomment the line below if you also wish to use an image logo -->
       <!-- <img src="assets/img/logo.png" alt=""> -->
-      <h1 class="sitename">Folio</h1>
+      <h1 class="sitename">Nguyễn Văn Hiếu</h1>
     </a>
 
     <nav class="navmenu" id="navmenu">
@@ -122,7 +122,7 @@
 </main>
 <footer class="footer light-background" id="footer">
 <div class="container">
-<h3 class="sitename">Folio</h3>
+<h3 class="sitename">Nguyễn Văn Hiếu</h3>
 <p>Et aut eum quis fuga eos sunt ipsa nihil. Labore corporis magni eligendi fuga maxime saepe commodi placeat.</p>
 <div class="social-links d-flex justify-content-center">
 <a href=""><i class="bi bi-twitter-x"></i></a>
@@ -133,7 +133,7 @@
 </div>
 <div class="container">
 <div class="copyright">
-<span>Copyright</span> <strong class="px-1 sitename">Folio</strong> <span>All Rights Reserved</span>
+<span>Copyright</span> <strong class="px-1 sitename">Nguyễn Văn Hiếu</strong> <span>All Rights Reserved</span>
 </div>
 <div class="credits">
 <!-- All the links in the footer should remain intact. -->
