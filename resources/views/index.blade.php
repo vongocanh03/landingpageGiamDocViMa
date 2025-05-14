@@ -358,6 +358,81 @@
     </div>
     </section>
 
+
+    <section class="section bg-light" id="business-perspective">
+    <div class="container section-title" data-aos="fade-up">
+      <h2>Góc nhìn Doanh Nhân</h2>
+      <p>Những chia sẻ, phân tích và góc nhìn thực tế từ hành trình điều hành và khởi nghiệp</p>
+    </div>
+
+    <div class="container" data-aos="fade-up" data-aos-delay="100">
+      <div class="swiper media-swiper">
+      <div class="swiper-wrapper">
+
+        <!-- Slide 1 -->
+        <div class="swiper-slide">
+        <a href="https://baohatinh.vn/doanh-nghiep-ha-tinh-chuyen-minh-trong-thoi-dai-so-post255613.html?fbclid=IwY2xjawJ9c_xleHRuA2FlbQIxMABicmlkETFYSjgwU3pTY1lyT2JFSjlmAR4uRnE5sD5i6PRtA2-gJE18drCDIJbuIZqhhyggXRj1kF9-NR94TgrQbmWpyw_aem_ex_VVmVP98PFh3q7luJhgA"
+          class="text-decoration-none text-reset">
+          <div class="card border-0 shadow-sm h-100">
+          <img src="assets/img/baochi/baochi-4.png" class="card-img-top" alt="Bài viết 1">
+          <div class="card-body">
+            <h5 class="card-title">Báo Hà TĨnh</h5>
+            <p class="card-text">Doanh nghiệp Hà Tĩnh "chuyển mình" trong thời đại số
+            </p>
+          </div>
+          </div>
+        </a>
+        </div>
+
+        <!-- Slide 2 -->
+        <div class="swiper-slide">
+        <a href="https://baohatinh.vn/thuong-mai-hoa-nhieu-y-tuong-khoi-nghiep-o-ha-tinh-post254033.html?fbclid=IwY2xjawJ9dBRleHRuA2FlbQIxMABicmlkETFYSjgwU3pTY1lyT2JFSjlmAR64LG-uHmjkEr5ZEUiyLaONIQveScWmrL5fFrbx0_ZMq_Ntb8uqBOHl72R3jA_aem_rpoQK4PFmLIy7VkSYyLlvg" class="text-decoration-none text-reset">
+          <div class="card border-0 shadow-sm h-100">
+          <img src="assets/img/baochi/baochi-4.png" class="card-img-top" alt="Bài viết 2">
+          <div class="card-body">
+            <h5 class="card-title">Báo Hà Tĩnh</h5>
+            <p class="card-text">Thương mại hóa nhiều ý tưởng khởi nghiệp ở Hà Tĩnh</p>
+          </div>
+          </div>
+        </a>
+        </div>
+
+        <!-- Slide 3 -->
+        <div class="swiper-slide">
+        <a href="https://vietnammarketing.com.vn/giam-doc-vima-chia-se-kinh-nghiem-khoi-nghiep-voi-sinh-vien-dai-hoc-ha-tinh/" class="text-decoration-none text-reset">
+          <div class="card border-0 shadow-sm h-100">
+          <img src="assets/img/baochi/baochi-2.png" class="card-img-top" alt="Bài viết 3">
+          <div class="card-body">
+            <h5 class="card-title">Việt Nam Marketing</h5>
+            <p class="card-text">Giám đốc VIMA chia sẻ kinh nghiệm khởi nghiệp với Sinh viên Đại học Hà Tĩnh</p>
+          </div>
+          </div>
+        </a>
+        </div>
+
+        <div class="swiper-slide">
+        <a href="https://vietnammarketing.com.vn/viet-nam-marketing-dat-giai-nhat-cuoc-thi-y-tuong-khoi-nghiep-sang-tao/" class="text-decoration-none text-reset">
+          <div class="card border-0 shadow-sm h-100">
+          <img src="assets/img/baochi/baochi-2.png" class="card-img-top" alt="Bài viết 3">
+          <div class="card-body">
+            <h5 class="card-title">Việt Nam Marketing</h5>
+            <p class="card-text">Việt Nam Marketing đạt giải nhất Cuộc thi Ý tưởng khởi nghiệp sáng tạo tỉnh Hà
+            Tĩnh</p>
+          </div>
+          </div>
+        </a>
+        </div>
+
+      </div>
+
+      <!-- Navigation buttons -->
+      <div class="swiper-button-prev"></div>
+      <div class="swiper-button-next"></div>
+      <div class="swiper-pagination pagination-spacing"></div>
+      </div>
+    </div>
+    </section>
+
   </main>
   <!-- Scroll Top -->
   <a class="scroll-top d-flex align-items-center justify-content-center" href="#" id="scroll-top"><i
