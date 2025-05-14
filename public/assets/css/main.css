@@ -611,7 +611,9 @@ section,
     font-size: 20px;
   }
 }
-
+.portfolio .portfolio-info {
+  pointer-events: none;
+}
 /*--------------------------------------------------------------
 # About Section
 --------------------------------------------------------------*/
@@ -629,8 +631,9 @@ section,
 }
 
 .about .content h3 {
-  font-size: 1.75rem;
+  font-size: 1.55rem;
   font-weight: 700;
+  line-height: 1.6;
 }
 
 .about .content .fst-italic {

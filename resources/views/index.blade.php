@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Index')
+@section('title', 'Nguyễn Văn Hiếu')
 
 @section('content')
   <main class="main">
@@ -41,9 +41,7 @@
           MARKETING (VIMA), Dự án : ỨNG DỤNG CHUYỂN ĐỔI SỐ TRONG VIỆC XÂY DỰNG NỀN TẢNG MARKETING CHO DOANH NGHIỆP
           .</span></li>
         </ul>
-        <a class="readmore stretched-link" href="{{ route('about.director') }}">
-        <span>Xem thêm về tôi </span><i class="bi bi-arrow-right"></i>
-        </a>
+
 
       </div>
       </div>
@@ -71,159 +69,148 @@
       <div class="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
         <div class="portfolio-content h-100">
+          <a href="assets/img/portfolio/giaithuong-1.jpg" class="glightbox" data-gallery="portfolio-gallery-app"
+          title="Khoảnh khắc nhận giải danh giá">
           <img src="assets/img/portfolio/giaithuong-1.jpg" class="img-fluid" alt="Giải thưởng 1">
+          </a>
           <div class="portfolio-info">
-          <h4>Giải thưởng 1</h4>
           <p>Khoảnh khắc nhận giải danh giá</p>
-          <a class="glightbox preview-link" data-gallery="portfolio-gallery-app"
-            href="assets/img/portfolio/giaithuong-1.jpg" title="App 1"><i class="bi bi-zoom-in"></i></a>
-          <a class="details-link" href="portfolio-details.html" title="More Details"><i
-            class="bi bi-link-45deg"></i></a>
           </div>
         </div>
         </div><!-- End Portfolio Item -->
         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
         <div class="portfolio-content h-100">
+          <a class="glightbox" data-gallery="portfolio-gallery-product"
+          href="assets/img/portfolio/doitacquocte-1.jpg"
+          title="Giao lưu quốc tế 1 - Kết nối với các đối tác toàn cầu">
           <img src="assets/img/portfolio/doitacquocte-1.jpg" class="img-fluid" alt="Đối tác 1">
+          </a>
           <div class="portfolio-info">
-          <h4>Giao lưu quốc tế 1</h4>
           <p>Kết nối với các đối tác toàn cầu</p>
-          <a class="glightbox preview-link" data-gallery="portfolio-gallery-product"
-            href="assets/img/portfolio/doitacquocte-1.jpg" title="Product 1"><i class="bi bi-zoom-in"></i></a>
-          <a class="details-link" href="portfolio-details.html" title="More Details"><i
-            class="bi bi-link-45deg"></i></a>
           </div>
         </div>
+
         </div><!-- End Portfolio Item -->
         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-branding">
         <div class="portfolio-content h-100">
+          <a class="glightbox" data-gallery="portfolio-gallery-branding" href="assets/img/portfolio/hoatdong-1.jpg"
+          title="Hoạt động nội bộ 1 - Team building gắn kết">
           <img src="assets/img/portfolio/hoatdong-1.jpg" class="img-fluid" alt="Hoạt động 1">
+          </a>
           <div class="portfolio-info">
-          <h4>Hoạt động nội bộ 1</h4>
           <p>Team building gắn kết</p>
-          <a class="glightbox preview-link" data-gallery="portfolio-gallery-branding"
-            href="assets/img/portfolio/hoatdong-1.jpg" title="Branding 1"><i class="bi bi-zoom-in"></i></a>
-          <a class="details-link" href="portfolio-details.html" title="More Details"><i
-            class="bi bi-link-45deg"></i></a>
           </div>
         </div>
+
         </div><!-- End Portfolio Item -->
         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-books">
         <div class="portfolio-content h-100">
+          <a class="glightbox" data-gallery="portfolio-gallery-book" href="assets/img/portfolio/congtac-1.jpg"
+          title="Công tác Châu Âu 1 - Hội thảo tại Đức">
           <img src="assets/img/portfolio/congtac-1.jpg" class="img-fluid" alt="Châu Âu 1">
+          </a>
           <div class="portfolio-info">
-          <h4>Công tác Châu Âu 1</h4>
           <p>Hội thảo tại Đức</p>
-          <a class="glightbox preview-link" data-gallery="portfolio-gallery-book"
-            href="assets/img/portfolio/congtac-1.jpg" title="Branding 1"><i class="bi bi-zoom-in"></i></a>
-          <a class="details-link" href="portfolio-details.html" title="More Details"><i
-            class="bi bi-link-45deg"></i></a>
           </div>
         </div>
+
         </div><!-- End Portfolio Item -->
         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
         <div class="portfolio-content h-100">
+          <a class="glightbox" data-gallery="portfolio-gallery-app" href="assets/img/portfolio/giaithuong-2.jpg"
+          title="Giải thưởng 2 - Vinh danh nỗ lực không ngừng">
           <img src="assets/img/portfolio/giaithuong-2.jpg" class="img-fluid" alt="Giải thưởng 2">
+          </a>
           <div class="portfolio-info">
-          <h4>Giải thưởng 2</h4>
           <p>Vinh danh nỗ lực không ngừng</p>
-          <a class="glightbox preview-link" data-gallery="portfolio-gallery-app"
-            href="assets/img/portfolio/giaithuong-2.jpg" title="App 2"><i class="bi bi-zoom-in"></i></a>
-          <a class="details-link" href="portfolio-details.html" title="More Details"><i
-            class="bi bi-link-45deg"></i></a>
           </div>
         </div>
+
         </div><!-- End Portfolio Item -->
         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
         <div class="portfolio-content h-100">
+          <a class="glightbox" data-gallery="portfolio-gallery-product"
+          href="assets/img/portfolio/doitacquocte-2.jpg"
+          title="Giao lưu quốc tế 2 - Chia sẻ chiến lược phát triển">
           <img src="assets/img/portfolio/doitacquocte-2.jpg" class="img-fluid" alt="Đối tác 2">
+          </a>
           <div class="portfolio-info">
-          <h4>Giao lưu quốc tế 2</h4>
           <p>Chia sẻ chiến lược phát triển</p>
-          <a class="glightbox preview-link" data-gallery="portfolio-gallery-product"
-            href="assets/img/portfolio/doitacquocte-2.jpg" title="Product 2"><i class="bi bi-zoom-in"></i></a>
-          <a class="details-link" href="portfolio-details.html" title="More Details"><i
-            class="bi bi-link-45deg"></i></a>
           </div>
         </div>
+
         </div><!-- End Portfolio Item -->
         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-branding">
         <div class="portfolio-content h-100">
+          <a class="glightbox" data-gallery="portfolio-gallery-branding" href="assets/img/portfolio/hoatdong-2.jpg"
+          title="Hoạt động nội bộ 2 - Văn hóa doanh nghiệp năng động">
           <img src="assets/img/portfolio/hoatdong-2.jpg" class="img-fluid" alt="Hoạt động 2">
+          </a>
           <div class="portfolio-info">
-          <h4>Hoạt động nội bộ 2</h4>
           <p>Văn hóa doanh nghiệp năng động</p>
-          <a class="glightbox preview-link" data-gallery="portfolio-gallery-branding"
-            href="assets/img/portfolio/hoatdong-2.jpg" title="Branding 2"><i class="bi bi-zoom-in"></i></a>
-          <a class="details-link" href="portfolio-details.html" title="More Details"><i
-            class="bi bi-link-45deg"></i></a>
           </div>
         </div>
+
         </div><!-- End Portfolio Item -->
         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-books">
         <div class="portfolio-content h-100">
+          <a class="glightbox" data-gallery="portfolio-gallery-book" href="assets/img/portfolio/congtac-2.jpg"
+          title="Công tác Châu Âu 2 - Ký kết tại Pháp">
           <img src="assets/img/portfolio/congtac-2.jpg" class="img-fluid" alt="Châu Âu 2">
+          </a>
           <div class="portfolio-info">
-          <h4>Công tác Châu Âu 2</h4>
           <p>Ký kết tại Pháp</p>
-          <a class="glightbox preview-link" data-gallery="portfolio-gallery-book"
-            href="assets/img/portfolio/congtac-2.jpg" title="Branding 2"><i class="bi bi-zoom-in"></i></a>
-          <a class="details-link" href="portfolio-details.html" title="More Details"><i
-            class="bi bi-link-45deg"></i></a>
           </div>
         </div>
+
         </div><!-- End Portfolio Item -->
         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
         <div class="portfolio-content h-100">
+          <a class="glightbox" data-gallery="portfolio-gallery-app" href="assets/img/portfolio/giaithuong-3.jpg"
+          title="Giải thưởng 3 - Thành tựu nổi bật trong ngành">
           <img src="assets/img/portfolio/giaithuong-3.jpg" class="img-fluid" alt="Giải thưởng 3">
+          </a>
           <div class="portfolio-info">
-          <h4>Giải thưởng 3</h4>
           <p>Thành tựu nổi bật trong ngành</p>
-          <a class="glightbox preview-link" data-gallery="portfolio-gallery-app"
-            href="assets/img/portfolio/giaithuong-3.jpg" title="App 3"><i class="bi bi-zoom-in"></i></a>
-          <a class="details-link" href="portfolio-details.html" title="More Details"><i
-            class="bi bi-link-45deg"></i></a>
           </div>
         </div>
+
         </div><!-- End Portfolio Item -->
         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
         <div class="portfolio-content h-100">
+          <a class="glightbox" data-gallery="portfolio-gallery-product"
+          href="assets/img/portfolio/doitacquocte-3.jpg" title="Giao lưu quốc tế 3 - Hợp tác phát triển bền vững">
           <img src="assets/img/portfolio/doitacquocte-3.jpg" class="img-fluid" alt="Đối tác 3">
+          </a>
           <div class="portfolio-info">
-          <h4>Giao lưu quốc tế 3</h4>
           <p>Hợp tác phát triển bền vững</p>
-          <a class="glightbox preview-link" data-gallery="portfolio-gallery-product"
-            href="assets/img/portfolio/doitacquocte-3.jpg" title="Product 3"><i class="bi bi-zoom-in"></i></a>
-          <a class="details-link" href="portfolio-details.html" title="More Details"><i
-            class="bi bi-link-45deg"></i></a>
           </div>
         </div>
+
         </div><!-- End Portfolio Item -->
         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-branding">
         <div class="portfolio-content h-100">
+          <a class="glightbox" data-gallery="portfolio-gallery-branding" href="assets/img/portfolio/hoatdong-3.jpg"
+          title="Hoạt động nội bộ 3 - Sức trẻ & sáng tạo">
           <img src="assets/img/portfolio/hoatdong-3.jpg" class="img-fluid" alt="Hoạt động 3">
+          </a>
           <div class="portfolio-info">
-          <h4>Hoạt động nội bộ 3</h4>
           <p>Sức trẻ & sáng tạo</p>
-          <a class="glightbox preview-link" data-gallery="portfolio-gallery-branding"
-            href="assets/img/portfolio/hoatdong-3.jpg" title="Branding 2"><i class="bi bi-zoom-in"></i></a>
-          <a class="details-link" href="portfolio-details.html" title="More Details"><i
-            class="bi bi-link-45deg"></i></a>
           </div>
         </div>
+
         </div><!-- End Portfolio Item -->
         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-books">
         <div class="portfolio-content h-100">
+          <a class="glightbox" data-gallery="portfolio-gallery-book" href="assets/img/portfolio/congtac-3.jpg"
+          title="Công tác Châu Âu 3 - Thăm doanh nghiệp Hà Lan">
           <img src="assets/img/portfolio/congtac-3.jpg" class="img-fluid" alt="Châu Âu 3">
+          </a>
           <div class="portfolio-info">
-          <h4>Công tác Châu Âu 3</h4>
           <p>Thăm doanh nghiệp Hà Lan</p>
-          <a class="glightbox preview-link" data-gallery="portfolio-gallery-book"
-            href="assets/img/portfolio/congtac-3.jpg" title="Branding 3"><i class="bi bi-zoom-in"></i></a>
-          <a class="details-link" href="portfolio-details.html" title="More Details"><i
-            class="bi bi-link-45deg"></i></a>
           </div>
         </div>
+
         </div>
         <!-- End Portfolio Item -->
       </div>
@@ -386,7 +373,8 @@
 
         <!-- Slide 2 -->
         <div class="swiper-slide">
-        <a href="https://baohatinh.vn/thuong-mai-hoa-nhieu-y-tuong-khoi-nghiep-o-ha-tinh-post254033.html?fbclid=IwY2xjawJ9dBRleHRuA2FlbQIxMABicmlkETFYSjgwU3pTY1lyT2JFSjlmAR64LG-uHmjkEr5ZEUiyLaONIQveScWmrL5fFrbx0_ZMq_Ntb8uqBOHl72R3jA_aem_rpoQK4PFmLIy7VkSYyLlvg" class="text-decoration-none text-reset">
+        <a href="https://baohatinh.vn/thuong-mai-hoa-nhieu-y-tuong-khoi-nghiep-o-ha-tinh-post254033.html?fbclid=IwY2xjawJ9dBRleHRuA2FlbQIxMABicmlkETFYSjgwU3pTY1lyT2JFSjlmAR64LG-uHmjkEr5ZEUiyLaONIQveScWmrL5fFrbx0_ZMq_Ntb8uqBOHl72R3jA_aem_rpoQK4PFmLIy7VkSYyLlvg"
+          class="text-decoration-none text-reset">
           <div class="card border-0 shadow-sm h-100">
           <img src="assets/img/baochi/baochi-4.png" class="card-img-top" alt="Bài viết 2">
           <div class="card-body">
@@ -399,7 +387,8 @@
 
         <!-- Slide 3 -->
         <div class="swiper-slide">
-        <a href="https://vietnammarketing.com.vn/giam-doc-vima-chia-se-kinh-nghiem-khoi-nghiep-voi-sinh-vien-dai-hoc-ha-tinh/" class="text-decoration-none text-reset">
+        <a href="https://vietnammarketing.com.vn/giam-doc-vima-chia-se-kinh-nghiem-khoi-nghiep-voi-sinh-vien-dai-hoc-ha-tinh/"
+          class="text-decoration-none text-reset">
           <div class="card border-0 shadow-sm h-100">
           <img src="assets/img/baochi/baochi-2.png" class="card-img-top" alt="Bài viết 3">
           <div class="card-body">
@@ -411,7 +400,8 @@
         </div>
 
         <div class="swiper-slide">
-        <a href="https://vietnammarketing.com.vn/viet-nam-marketing-dat-giai-nhat-cuoc-thi-y-tuong-khoi-nghiep-sang-tao/" class="text-decoration-none text-reset">
+        <a href="https://vietnammarketing.com.vn/viet-nam-marketing-dat-giai-nhat-cuoc-thi-y-tuong-khoi-nghiep-sang-tao/"
+          class="text-decoration-none text-reset">
           <div class="card border-0 shadow-sm h-100">
           <img src="assets/img/baochi/baochi-2.png" class="card-img-top" alt="Bài viết 3">
           <div class="card-body">
@@ -448,5 +438,17 @@
   <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
   <!-- Main JS File -->
   <script src="assets/js/main.js"></script>
+<style>
+  .portfolio .portfolio-info {
+  pointer-events: none;
+}
+/*--------------------------------------------------------------
+# About Section
+--------------------------------------------------------------*/
+.about .profile-img {
+  border: 20px solid var(--accent-color);
+  padding: 0;
+}
 
+</style>
 @endsection
