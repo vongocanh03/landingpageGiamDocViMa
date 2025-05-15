@@ -18,7 +18,7 @@
     <div class="container" data-aos="fade-up" data-aos-delay="100">
       <div class="row gy-4 justify-content-between">
       <div class="col-lg-4 profile-img align-self-start">
-        <img alt="" class="img-fluid" src="assets/img/profile-img.jpg" />
+        <img alt="" class="img-fluid" src="assets/img/profile.jpg" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);" />
       </div>
       <div class="col-lg-7 content">
         <h3>Tôi là Nguyễn Văn Hiếu – Giám đốc điều hành Vietnam Marketing (VIMA), đồng thời là Founder của LASA và Thế

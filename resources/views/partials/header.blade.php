@@ -13,29 +13,10 @@
             <ul>
                 <li><a href="{{ url('/') }}#hero">Home</a></li>
                 <li><a href="{{ url('/') }}#about">Về Tôi</a></li>
-                <li><a href="{{ url('/') }}#portfolio">Dấu ấn sự nghiệp</a></li>
+                <li><a href="{{ url('/') }}#portfolio">Giải Thưởng</a></li>
                 <li><a href="{{ url('/') }}#brand-support">Hoạt động</a></li>
                 <li><a href="{{ url(path: '/') }}#media">Truyền Thông</a></li>
-                <li><a href="{{ url(path: '/') }}#business-perspective">Doanh Nhân</a></li>
-
-                <li class="dropdown">
-                    <a href="#"><span>Công Ty của tôi</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
-                    <ul>
-                        <li><a href="https://vietnammarketing.com.vn/" target="_blank">VIMA</a></li>
-                        <!-- <li class="dropdown">
-                            <a href="#"><span>Deep Dropdown</span> <i
-                                    class="bi bi-chevron-down toggle-dropdown"></i></a>
-                            <ul>
-                                <li><a href="#">Deep Dropdown 1</a></li>
-                                <li><a href="#">Deep Dropdown 2</a></li>
-                                <li><a href="#">Deep Dropdown 3</a></li>
-                                <li><a href="#">Deep Dropdown 4</a></li>
-                                <li><a href="#">Deep Dropdown 5</a></li>
-                            </ul>
-                        </li> -->
-                        <li><a href="{{ route('lasa.director') }}">LASA</a></li>
-                    </ul>
-                </li>
+                <li><a href="{{ url(path: '/') }}#my-business">Doanh Nghiệp Của Tôi</a></li>
             </ul>
         </nav>
 
