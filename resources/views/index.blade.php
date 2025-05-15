@@ -423,6 +423,37 @@
     </div>
     </section>
 
+<section class="section" id="my-business">
+  <div class="container section-title" data-aos="fade-up">
+    <h2>Doanh Nghiệp Của Tôi</h2>
+    <p>Khám phá các công ty và dự án mà tôi đã sáng lập và điều hành</p>
+  </div>
+<div class="container" data-aos="fade-up" data-aos-delay="100">
+  <div class="row gy-4 justify-content-center">
+    <!-- Công ty 1 -->
+    <div class="col-md-3 d-flex justify-content-center">
+      <a href="https://lasa.com.vn" class="text-decoration-none" target="_blank">
+        <div class="card border-0 shadow-sm mb-4 d-flex justify-content-center">
+          <img src="assets/img/lasa2.png" class="card-img-top" alt="Công ty LASA" style="width: 300px; height: 150px;">
+        </div>
+      </a>
+    </div>
+
+    <!-- Công ty 2 -->
+    <div class="col-md-3 d-flex justify-content-center">
+      <a href="https://vietnammarketing.com.vn/" class="text-decoration-none" target="_blank">
+        <div class="card border-0 shadow-sm mb-4 d-flex justify-content-center">
+          <img src="assets/img/vima2.png" class="card-img-top" alt="Công ty Vi Ma" style="width: 300px; height: 150px;">
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
+
+
+</section>
+
+
   </main>
   <!-- Scroll Top -->
   <a class="scroll-top d-flex align-items-center justify-content-center" href="#" id="scroll-top"><i
@@ -441,13 +472,6 @@
 <style>
   .portfolio .portfolio-info {
   pointer-events: none;
-}
-/*--------------------------------------------------------------
-# About Section
---------------------------------------------------------------*/
-.about .profile-img {
-  border: 20px solid var(--accent-color);
-  padding: 0;
 }
 
 </style>
