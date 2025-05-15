@@ -247,6 +247,17 @@
         }
       }
     });
+
+  const toggleBtn = document.getElementById("toggleMoreBtn");
+  const collapseElement = document.getElementById("moreInfo");
+
+  collapseElement.addEventListener("show.bs.collapse", function () {
+    toggleBtn.innerHTML = '<span>Thu gọn </span><i class="bi bi-arrow-up"></i>';
+  });
+
+  collapseElement.addEventListener("hide.bs.collapse", function () {
+    toggleBtn.innerHTML = '<span>Xem thêm </span><i class="bi bi-arrow-down"></i>';
+  });
   });
 
 })();

@@ -13,7 +13,7 @@
             <ul>
                 <li><a href="{{ url('/') }}#hero">Home</a></li>
                 <li><a href="{{ url('/') }}#about">Về Tôi</a></li>
-                <li><a href="{{ url('/') }}#portfolio">Giải Thưởng</a></li>
+                <li><a href="{{ url('/') }}#awards">Giải Thưởng</a></li>
                 <li><a href="{{ url('/') }}#brand-support">Hoạt động</a></li>
                 <li><a href="{{ url(path: '/') }}#media">Truyền Thông</a></li>
                 <li><a href="{{ url(path: '/') }}#my-business">Doanh Nghiệp Của Tôi</a></li>

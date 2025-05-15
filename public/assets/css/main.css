@@ -1351,7 +1351,15 @@ section,
   margin-right: 8px;
   color: var(--accent-color);
 }
-
+.btn-outline-primary{
+  background-color: #fff !important;
+  color: #0f2a7c !important;
+  border: 1px solid #0f2a7c;
+}
+.btn-outline-primary:hover{
+  background-color: #0f2a7c !important;
+  color: #fff !important;
+}
 .swiper-button-prev,
 .swiper-button-next {
   width: 35px;

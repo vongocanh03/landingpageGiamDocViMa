@@ -18,7 +18,8 @@
     <div class="container" data-aos="fade-up" data-aos-delay="100">
       <div class="row gy-4 justify-content-between">
       <div class="col-lg-4 profile-img align-self-start">
-        <img alt="" class="img-fluid" src="assets/img/profile.jpg" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);" />
+        <img alt="" class="img-fluid" src="assets/img/profile.jpg"
+        style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);" />
       </div>
       <div class="col-lg-7 content">
         <h3>Tôi là Nguyễn Văn Hiếu – Giám đốc điều hành Vietnam Marketing (VIMA), đồng thời là Founder của LASA và Thế
@@ -29,24 +30,112 @@
         </p>
         <ul>
         <li><i class="bi bi-check2-all"></i> <span>Founder & CEO Công Ty Cổ Phần LASA (Nhập khẩu & PP Bảo Hộ Lao
-          Động).</span>
-        </li>
-        <li><i class="bi bi-check2-all"></i> <span>Founder Sàn Giao Dịch Công ty Thế Giới Giày Bảo Hộ (Giải thưởng Ý
-          tưởng khởi nghiệp xuất sắc năm 2019).</span>
-        </li>
-        <li><i class="bi bi-check2-all"></i> <span>Giải thưởng Sao Đỏ - Doanh nhân trẻ Việt Nam Tiêu biểu năm
-          2019.</span></li>
+          Động).</span></li>
+        <li><i class="bi bi-check2-all"></i> <span>Founder Sàn Giao Dịch Giày Bảo Hộ (Giải thưởng Ý tưởng khởi
+          nghiệp xuất sắc năm 2019).</span></li>
+        <li><i class="bi bi-check2-all"></i> <span>UVBCH hội Doanh Nhân Trẻ. 2019.</span></li>
+        <li><i class="bi bi-check2-all"></i> <span>Chủ Tịch Hội BNI (Business Network International).</span></li>
 
-        <li><i class="bi bi-check2-all"></i> <span>Giải Nhất Ý tưởng khởi nghiệp xuất sắc năm 2022 – CÔNG TY VIETNAM
-          MARKETING (VIMA), Dự án : ỨNG DỤNG CHUYỂN ĐỔI SỐ TRONG VIỆC XÂY DỰNG NỀN TẢNG MARKETING CHO DOANH NGHIỆP
-          .</span></li>
+        <li><strong>Kinh nghiệm quốc tế:</strong></li>
+        <li><i class="bi bi-globe2"></i> <span>5 năm làm việc tại tập đoàn Nhật Bản (tại Việt Nam và Nhật).</span>
+        </li>
+        <li><i class="bi bi-globe2"></i> <span>1 năm hợp tác với đối tác Pháp.</span></li>
+        <li><i class="bi bi-globe2"></i> <span>2 năm làm tại doanh nghiệp Bỉ tại thị trường quốc tế.</span></li>
         </ul>
 
-
+        <!-- Nội dung ẩn -->
+        <div class="collapse mt-3" id="moreInfo">
+        <h5>Các dấu mốc sự nghiệp nổi bật</h5>
+        <p>🔷 <strong>2013 – Thành lập công ty TNHH LASA</strong><br>
+          Chủ tịch HĐQT kiêm Giám đốc điều hành. LASA trở thành doanh nghiệp tiên phong trong ngành bảo hộ lao động
+          tại Việt Nam.
+        </p>
+        <p>🔷 <strong>2019 – Sáng lập sàn Giao dịch Thế giới Giày Bảo Hộ</strong><br>
+          Mô hình thương mại điện tử kết nối nhà cung cấp toàn cầu với thị trường Việt, nổi bật bởi tính đột phá và
+          thực tiễn.
+        </p>
+        <p>🔷 <strong>2022 – Sáng lập & điều hành VIMA</strong><br>
+          Chủ tịch HĐQT kiêm CEO Công ty CP Giải pháp Tổng thể Marketing Việt Nam – đơn vị tiên phong về chuyển đổi
+          số và marketing đa nền tảng.
+        </p>
+        <h5>Giá trị & Tầm nhìn</h5>
+        <p>
+          “Đưa tư duy toàn cầu vào giải pháp nội địa – Gắn sự bền vững trong từng chiến lược phát triển.”<br>
+          Với triết lý kinh doanh nhân văn và tầm nhìn chiến lược, Tôi không chỉ là nhà lãnh đạo doanh nghiệp, mà
+          còn là người truyền cảm hứng cho cộng đồng khởi nghiệp, luôn sẵn sàng chia sẻ kiến thức để nâng cao giá
+          trị nội lực doanh nghiệp Việt.
+        </p>
+        </div>
+        <div class="text-center mt-3">
+        <a id="toggleMoreBtn" class="btn btn-outline-primary" data-bs-toggle="collapse" href="#moreInfo"
+          role="button" aria-expanded="false" aria-controls="moreInfo">
+          <span>Xem thêm </span><i class="bi bi-arrow-down"></i>
+        </a>
+        </div>
       </div>
+
       </div>
     </div>
     </section><!-- /About Section -->
+
+    <!-- Giải thưởng Section -->
+    <section class="portfolio section bg-light" id="awards">
+    <div class="container section-title" data-aos="fade-up">
+      <h2>Giải thưởng</h2>
+      <p>Những cột mốc ghi dấu nỗ lực và thành tựu nổi bật trong hành trình phát triển</p>
+    </div>
+
+    <div class="container">
+      <div class="row gy-4" data-aos="fade-up" data-aos-delay="200">
+      <!-- Ảnh 1 -->
+      <div class="col-lg-4 col-md-6">
+        <div class="portfolio-content h-100">
+        <a href="assets/img/portfolio/giaithuong-1.jpg" class="glightbox" data-gallery="awards-gallery"
+          title="“Giải thưởng Doanh nhân trẻ Việt Nam tiêu biểu 2019 – một trong những danh hiệu cao quý nhất do 
+          Trung ương Hội Doanh nhân trẻ Việt Nam tổ chức, với sự tham dự của Thủ tướng Chính phủ và Bộ trưởng 
+          Kế hoạch & Đầu tư Nguyễn Chí Dũng trực tiếp trao tặng.”">
+          <img src="assets/img/portfolio/giaithuong-1.jpg" class="img-fluid" alt="Giải thưởng 1">
+        </a>
+        <div class="portfolio-info">
+          <p>Doanh nhân trẻ tiêu biểu 2019</p>
+        </div>
+        </div>
+      </div>
+
+      <!-- Ảnh 2 -->
+      <div class="col-lg-4 col-md-6">
+        <div class="portfolio-content h-100">
+        <a href="assets/img/portfolio/giaithuong-4.jpg" class="glightbox" data-gallery="awards-gallery"
+          title="“Công ty CP Giải pháp Tổng thể Marketing Việt Nam (VIMA) 
+          vinh dự được trao chứng nhận Doanh nghiệp khởi nghiệp sáng tạo tiêu biểu tại TechFest 2024
+           – diễn đàn kết nối nguồn lực và thúc đẩy đổi mới sáng tạo khu vực Bắc Trung Bộ & Duyên hải miền Trung.”">
+          <img src="assets/img/portfolio/giaithuong-4.jpg" class="img-fluid" alt="Giải thưởng 2">
+        </a>
+        <div class="portfolio-info">
+          <p>Chứng nhận Techfest 2024</p>
+        </div>
+        </div>
+      </div>
+
+      <!-- Ảnh 3 -->
+      <div class="col-lg-4 col-md-6">
+        <div class="portfolio-content h-100">
+        <a href="assets/img/portfolio/giaithuong-3.jpg" class="glightbox" data-gallery="awards-gallery"
+          title="“Giải Nhất tại Cuộc thi Ý tưởng Khởi nghiệp Sáng tạo tỉnh Hà Tĩnh năm 2022 là sự ghi nhận 
+          xứng đáng cho tinh thần đổi mới, bản lĩnh dấn thân và năng lực kiến tạo giải pháp thực tiễn của một 
+          doanh nghiệp trẻ trong hành trình tạo giá trị cho cộng đồng.”">
+          <img src="assets/img/portfolio/giaithuong-3.jpg" class="img-fluid" alt="Giải thưởng 3">
+        </a>
+        <div class="portfolio-info">
+          <p>Giải Nhất cuộc thi ý tưởng khởi nghiệp sáng tạo 2022</p>
+        </div>
+        </div>
+      </div>
+      </div>
+    </div>
+    </section>
+    <!-- /Giải thưởng Section -->
+
 
 
     <!-- Portfolio Section -->
@@ -256,7 +345,7 @@
     <!-- /Brand Support Section -->
     <!-- Testimonials Section -->
     <!-- Media Coverage Section -->
-    <section class="section bg-light" id="media">
+  <section class="section bg-light" id="media">
     <div class="container section-title" data-aos="fade-up">
       <h2>Truyền thông nói về tôi</h2>
       <p>Những bài báo, phóng sự và ghi nhận từ các kênh truyền thông uy tín</p>
@@ -423,37 +512,37 @@
     </div>
     </section>
 
-<section class="section" id="my-business">
-  <div class="container section-title" data-aos="fade-up">
-    <h2>Doanh Nghiệp Của Tôi</h2>
-    <p>Khám phá các công ty và dự án mà tôi đã sáng lập và điều hành</p>
-  </div>
-<div class="container" data-aos="fade-up" data-aos-delay="100">
-  <div class="row gy-4 justify-content-center">
-    <!-- Công ty 1 -->
-    <div class="col-md-3 d-flex justify-content-center">
-      <a href="https://lasa.com.vn" class="text-decoration-none" target="_blank">
+    <section class="section" id="my-business">
+    <div class="container section-title" data-aos="fade-up">
+      <h2>Doanh Nghiệp Của Tôi</h2>
+      <p>Khám phá các công ty và dự án mà tôi đã sáng lập và điều hành</p>
+    </div>
+    <div class="container" data-aos="fade-up" data-aos-delay="100">
+      <div class="row gy-4 justify-content-center">
+      <!-- Công ty 1 -->
+      <div class="col-md-3 d-flex justify-content-center">
+        <a href="https://baoholaodonglasa.com" class="text-decoration-none" target="_blank">
         <div class="card border-0 shadow-sm mb-4 d-flex justify-content-center">
-          <img src="assets/img/lasa2.png" class="card-img-top" alt="Công ty LASA" style="width: 300px; height: 150px;">
+          <img src="assets/img/lasa2.png" class="card-img-top" alt="Công ty LASA"
+          style="width: 300px; height: 150px;">
         </div>
-      </a>
+        </a>
+      </div>
+
+      <!-- Công ty 2 -->
+      <div class="col-md-3 d-flex justify-content-center">
+        <a href="https://vietnammarketing.com.vn/" class="text-decoration-none" target="_blank">
+        <div class="card border-0 shadow-sm mb-4 d-flex justify-content-center">
+          <img src="assets/img/vima2.png" class="card-img-top" alt="Công ty Vi Ma"
+          style="width: 300px; height: 150px;">
+        </div>
+        </a>
+      </div>
+      </div>
     </div>
 
-    <!-- Công ty 2 -->
-    <div class="col-md-3 d-flex justify-content-center">
-      <a href="https://vietnammarketing.com.vn/" class="text-decoration-none" target="_blank">
-        <div class="card border-0 shadow-sm mb-4 d-flex justify-content-center">
-          <img src="assets/img/vima2.png" class="card-img-top" alt="Công ty Vi Ma" style="width: 300px; height: 150px;">
-        </div>
-      </a>
-    </div>
-  </div>
-</div>
 
-
-</section>
-
-
+    </section>
   </main>
   <!-- Scroll Top -->
   <a class="scroll-top d-flex align-items-center justify-content-center" href="#" id="scroll-top"><i
@@ -469,10 +558,15 @@
   <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
   <!-- Main JS File -->
   <script src="assets/js/main.js"></script>
-<style>
-  .portfolio .portfolio-info {
-  pointer-events: none;
-}
+  <style>
+    .portfolio .portfolio-info {
+    pointer-events: none;
+    }
 
-</style>
+    .about .content h3 {
+    font-size: 1.55rem;
+    font-weight: 700;
+    line-height: 1.6;
+    }
+  </style>
 @endsection
