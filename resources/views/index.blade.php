@@ -81,7 +81,7 @@
     <!-- Giải thưởng Section -->
     <section class="portfolio section bg-light" id="awards">
     <div class="container section-title" data-aos="fade-up">
-      <h2>Giải thưởng</h2>
+      <h2>Dấu mốc danh giá</h2>
       <p>Những cột mốc ghi dấu nỗ lực và thành tựu nổi bật trong hành trình phát triển</p>
     </div>
 
@@ -137,178 +137,180 @@
     <!-- /Giải thưởng Section -->
 
 
+    <!-- Hoạt động Section (Rút gọn 6 ảnh) -->
+<section class="portfolio section bg-light" id="hoatdong">
+  <!-- Section Title -->
+  <div class="container section-title" data-aos="fade-up">
+    <h2>Những bước đi thực chiến</h2>
+    <p>Đồng hành cùng các thương hiệu, xây dựng nền tảng marketing và phát triển tại thị trường Việt Nam</p>
+  </div>
+  <!-- End Section Title -->
 
-    <!-- Portfolio Section -->
-    <section class="portfolio section" id="portfolio">
-    <!-- Section Title -->
-    <div class="container section-title" data-aos="fade-up">
-      <h2>Dấu ấn sự nghiệp</h2>
-      <p>Những cột mốc nổi bật trong hành trình phát triển và hợp tác quốc tế</p>
-    </div>
-    <!-- End Section Title -->
-    <div class="container">
-      <div class="isotope-layout" data-default-filter="*" data-layout="masonry" data-sort="original-order">
-      <ul class="portfolio-filters isotope-filters" data-aos="fade-up" data-aos-delay="100">
-        <li class="filter-active" data-filter="*">Tất Cả</li>
-        <li data-filter=".filter-app">Giải thưởng</li>
-        <li data-filter=".filter-product">Giao lưu & Đối tác quốc tế</li>
-        <li data-filter=".filter-branding">Hoạt động</li>
-        <li data-filter=".filter-books">Công tác Châu Âu</li>
-      </ul><!-- End Portfolio Filters -->
-      <div class="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
-        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
-        <div class="portfolio-content h-100">
-          <a href="assets/img/portfolio/giaithuong-1.jpg" class="glightbox" data-gallery="portfolio-gallery-app"
-          title="Khoảnh khắc nhận giải danh giá">
-          <img src="assets/img/portfolio/giaithuong-1.jpg" class="img-fluid" alt="Giải thưởng 1">
+  <div class="container">
+    <div class="row gy-4" data-aos="fade-up" data-aos-delay="200">
+      <!-- Ảnh 1 -->
+      <div class="col-lg-4 col-md-6 portfolio-item">
+        <div class="portfolio-content h-100 text-center">
+          <a href="assets/img/portfolio/doitacquocte-1.jpg" class="glightbox" data-gallery="hoatdong-gallery" title="Làm việc cùng Chủ tịch hãng Giày Safety Jogger (Bỉ) tại Bỉ , hãng giày có mặt tại 130 quốc gia trên thế giới và bán ra hơn 10 triệu đôi giày mỗi năm">
+            <img src="assets/img/portfolio/doitacquocte-1.jpg" class="img-fluid" alt="Team building 1">
           </a>
           <div class="portfolio-info">
-          <p>Khoảnh khắc nhận giải danh giá</p>
+            <p>Chủ tịch hãng Giày Safety Jogger (Bỉ)</p>
           </div>
         </div>
-        </div><!-- End Portfolio Item -->
-        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
-        <div class="portfolio-content h-100">
-          <a class="glightbox" data-gallery="portfolio-gallery-product"
-          href="assets/img/portfolio/doitacquocte-1.jpg"
-          title="Giao lưu quốc tế 1 - Kết nối với các đối tác toàn cầu">
-          <img src="assets/img/portfolio/doitacquocte-1.jpg" class="img-fluid" alt="Đối tác 1">
-          </a>
-          <div class="portfolio-info">
-          <p>Kết nối với các đối tác toàn cầu</p>
-          </div>
-        </div>
-
-        </div><!-- End Portfolio Item -->
-        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-branding">
-        <div class="portfolio-content h-100">
-          <a class="glightbox" data-gallery="portfolio-gallery-branding" href="assets/img/portfolio/hoatdong-1.jpg"
-          title="Hoạt động nội bộ 1 - Team building gắn kết">
-          <img src="assets/img/portfolio/hoatdong-1.jpg" class="img-fluid" alt="Hoạt động 1">
-          </a>
-          <div class="portfolio-info">
-          <p>Team building gắn kết</p>
-          </div>
-        </div>
-
-        </div><!-- End Portfolio Item -->
-        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-books">
-        <div class="portfolio-content h-100">
-          <a class="glightbox" data-gallery="portfolio-gallery-book" href="assets/img/portfolio/congtac-1.jpg"
-          title="Công tác Châu Âu 1 - Hội thảo tại Đức">
-          <img src="assets/img/portfolio/congtac-1.jpg" class="img-fluid" alt="Châu Âu 1">
-          </a>
-          <div class="portfolio-info">
-          <p>Hội thảo tại Đức</p>
-          </div>
-        </div>
-
-        </div><!-- End Portfolio Item -->
-        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
-        <div class="portfolio-content h-100">
-          <a class="glightbox" data-gallery="portfolio-gallery-app" href="assets/img/portfolio/giaithuong-2.jpg"
-          title="Giải thưởng 2 - Vinh danh nỗ lực không ngừng">
-          <img src="assets/img/portfolio/giaithuong-2.jpg" class="img-fluid" alt="Giải thưởng 2">
-          </a>
-          <div class="portfolio-info">
-          <p>Vinh danh nỗ lực không ngừng</p>
-          </div>
-        </div>
-
-        </div><!-- End Portfolio Item -->
-        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
-        <div class="portfolio-content h-100">
-          <a class="glightbox" data-gallery="portfolio-gallery-product"
-          href="assets/img/portfolio/doitacquocte-2.jpg"
-          title="Giao lưu quốc tế 2 - Chia sẻ chiến lược phát triển">
-          <img src="assets/img/portfolio/doitacquocte-2.jpg" class="img-fluid" alt="Đối tác 2">
-          </a>
-          <div class="portfolio-info">
-          <p>Chia sẻ chiến lược phát triển</p>
-          </div>
-        </div>
-
-        </div><!-- End Portfolio Item -->
-        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-branding">
-        <div class="portfolio-content h-100">
-          <a class="glightbox" data-gallery="portfolio-gallery-branding" href="assets/img/portfolio/hoatdong-2.jpg"
-          title="Hoạt động nội bộ 2 - Văn hóa doanh nghiệp năng động">
-          <img src="assets/img/portfolio/hoatdong-2.jpg" class="img-fluid" alt="Hoạt động 2">
-          </a>
-          <div class="portfolio-info">
-          <p>Văn hóa doanh nghiệp năng động</p>
-          </div>
-        </div>
-
-        </div><!-- End Portfolio Item -->
-        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-books">
-        <div class="portfolio-content h-100">
-          <a class="glightbox" data-gallery="portfolio-gallery-book" href="assets/img/portfolio/congtac-2.jpg"
-          title="Công tác Châu Âu 2 - Ký kết tại Pháp">
-          <img src="assets/img/portfolio/congtac-2.jpg" class="img-fluid" alt="Châu Âu 2">
-          </a>
-          <div class="portfolio-info">
-          <p>Ký kết tại Pháp</p>
-          </div>
-        </div>
-
-        </div><!-- End Portfolio Item -->
-        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
-        <div class="portfolio-content h-100">
-          <a class="glightbox" data-gallery="portfolio-gallery-app" href="assets/img/portfolio/giaithuong-3.jpg"
-          title="Giải thưởng 3 - Thành tựu nổi bật trong ngành">
-          <img src="assets/img/portfolio/giaithuong-3.jpg" class="img-fluid" alt="Giải thưởng 3">
-          </a>
-          <div class="portfolio-info">
-          <p>Thành tựu nổi bật trong ngành</p>
-          </div>
-        </div>
-
-        </div><!-- End Portfolio Item -->
-        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
-        <div class="portfolio-content h-100">
-          <a class="glightbox" data-gallery="portfolio-gallery-product"
-          href="assets/img/portfolio/doitacquocte-3.jpg" title="Giao lưu quốc tế 3 - Hợp tác phát triển bền vững">
-          <img src="assets/img/portfolio/doitacquocte-3.jpg" class="img-fluid" alt="Đối tác 3">
-          </a>
-          <div class="portfolio-info">
-          <p>Hợp tác phát triển bền vững</p>
-          </div>
-        </div>
-
-        </div><!-- End Portfolio Item -->
-        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-branding">
-        <div class="portfolio-content h-100">
-          <a class="glightbox" data-gallery="portfolio-gallery-branding" href="assets/img/portfolio/hoatdong-3.jpg"
-          title="Hoạt động nội bộ 3 - Sức trẻ & sáng tạo">
-          <img src="assets/img/portfolio/hoatdong-3.jpg" class="img-fluid" alt="Hoạt động 3">
-          </a>
-          <div class="portfolio-info">
-          <p>Sức trẻ & sáng tạo</p>
-          </div>
-        </div>
-
-        </div><!-- End Portfolio Item -->
-        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-books">
-        <div class="portfolio-content h-100">
-          <a class="glightbox" data-gallery="portfolio-gallery-book" href="assets/img/portfolio/congtac-3.jpg"
-          title="Công tác Châu Âu 3 - Thăm doanh nghiệp Hà Lan">
-          <img src="assets/img/portfolio/congtac-3.jpg" class="img-fluid" alt="Châu Âu 3">
-          </a>
-          <div class="portfolio-info">
-          <p>Thăm doanh nghiệp Hà Lan</p>
-          </div>
-        </div>
-
-        </div>
-        <!-- End Portfolio Item -->
       </div>
-      <!-- End Portfolio Container -->
+
+      <!-- Ảnh 2 -->
+      <div class="col-lg-4 col-md-6 portfolio-item">
+        <div class="portfolio-content h-100 text-center">
+          <a href="assets/img/portfolio/doitacquocte-3.jpg" class="glightbox" data-gallery="hoatdong-gallery" title="Gặp gỡ và ký kết hợp tác với Chủ tịch hãng giày Ziben tại Hàn Quốc (hãng giày lớn nhất Hàn Quốc), phát triển Việt Nam trở thành thị trường lớn thứ 2 của hãng.">
+            <img src="assets/img/portfolio/doitacquocte-3.jpg" class="img-fluid" alt="Giao lưu 2">
+          </a>
+          <div class="portfolio-info">
+            <p>Thăm và ký kết hợp tác với Chủ tịch hãng giày Ziben tại Hàn Quốc</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Ảnh 3 -->
+      <div class="col-lg-4 col-md-6 portfolio-item">
+        <div class="portfolio-content h-100 text-center">
+          <a href="assets/img/portfolio/doitacquocte-2.jpg" class="glightbox" data-gallery="hoatdong-gallery" title="Ký kết hợp tác tổng đại lý phân phối, xây dựng nền tảng Marketing phát triển hệ thống đại lý tại thị trường Việt Nam.">
+            <img src="assets/img/portfolio/doitacquocte-2.jpg" class="img-fluid" alt="Workshop 3">
+          </a>
+          <div class="portfolio-info">
+            <p> Hợp tác cùng chủ tịch công ty HANS CO., Ltd. (Hàn Quốc)</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Ảnh 4 -->
+      <div class="col-lg-4 col-md-6 portfolio-item">
+        <div class="portfolio-content h-100 text-center">
+          <a href="assets/img/portfolio/anh5.jpg" class="glightbox" data-gallery="hoatdong-gallery" title="Làm việc cùng Giám đốc kinh doanh Châu Á của hãng Honeywell (Mỹ)">
+            <img src="assets/img/portfolio/anh4.jpg" class="img-fluid" alt="Hội nghị 4">
+          </a>
+          <div class="portfolio-info">
+            <p>Làm việc cùng giám đốc kinh doanh Honeywell (Mỹ)</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Ảnh 5 -->
+      <div class="col-lg-4 col-md-6 portfolio-item">
+        <div class="portfolio-content h-100 text-center">
+          <a href="assets/img/portfolio/congtac-3.jpg" class="glightbox" data-gallery="hoatdong-gallery" title="Làm việc cùng Giám đốc nhà máy, tìm hiểu công nghệ sản xuất, thu thập dữ liệu để lên chiến lược Marketing cho hãng để phát triển hệ thống các Đại lý tại thị trường Việt Nam.">
+            <img src="assets/img/portfolio/congtac-3.jpg" class="img-fluid" alt="Triển lãm 5">
+          </a>
+          <div class="portfolio-info">
+            <p>Thăm nhà máy giày Ziben Safety tại Camphuchia</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Ảnh 6 -->
+      <div class="col-lg-4 col-md-6 portfolio-item">
+        <div class="portfolio-content h-100 text-center">
+          <a href="assets/img/portfolio/anh6.jpg" class="glightbox" data-gallery="hoatdong-gallery" title="Thăm và làm việc cùng Giám đốc công ty, tìm hiểu quy mô kho hàng, công suất nhà máy, nghiên cứu sản phẩm mới và lên chiến lược phát triển thị trường Việt Nam.">
+            <img src="assets/img/portfolio/anh6.jpg" class="img-fluid" alt="Tọa đàm 6">
+          </a>
+          <div class="portfolio-info">
+            <p>Thăm văn phòng hãng giày Hans tại Hàn Quốc</p>
+          </div>
+        </div>
       </div>
     </div>
-    </section>
-    <!-- /Portfolio Section -->
+  </div>
+</section>
+<!-- /Hoạt động Section -->
 
+
+    <!-- Hoạt động khác -->
+<section class="portfolio section bg-light" id="hoatdong">
+  <!-- Section Title -->
+  <div class="container section-title" data-aos="fade-up">
+    <h2>Kết nối & lan tỏa</h2>
+    <p>Chuỗi hoạt động giao lưu, đào tạo và phát triển nền tảng marketing – nơi các thương hiệu được kết nối, chia sẻ và cùng nhau lớn mạnh.</p>
+  </div>
+  <!-- End Section Title -->
+
+  <div class="container">
+    <div class="row gy-4" data-aos="fade-up" data-aos-delay="200">
+      <!-- Ảnh 1 -->
+      <div class="col-lg-4 col-md-6 portfolio-item">
+        <div class="portfolio-content h-100 text-center">
+          <a href="assets/img/portfolio/anh7.jpg" class="glightbox" data-gallery="hoatdong-gallery" title="Làm việc cùng Chủ tịch và Giám đốc kinh doanh châu Á công ty Cortina, văn phòng và nhà máy hãng Safety Jogger.">
+            <img src="assets/img/portfolio/anh7-1.jpg" class="img-fluid" alt="Team building 1">
+          </a>
+          <div class="portfolio-info">
+            <p>Làm việc cùng Chủ tịch và Giám đốc kinh doanh châu Á công ty Cortina</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Ảnh 2 -->
+      <div class="col-lg-4 col-md-6 portfolio-item">
+        <div class="portfolio-content h-100 text-center">
+          <a href="assets/img/portfolio/congtac-1.jpg" class="glightbox" data-gallery="hoatdong-gallery" title="Kết nối giao thương tại Thái Lan.">
+            <img src="assets/img/portfolio/congtac-1.jpg" class="img-fluid" alt="Giao lưu 2">
+          </a>
+          <div class="portfolio-info">
+            <p>Kết nối giao thương tại Thái Lan</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Ảnh 3 -->
+      <div class="col-lg-4 col-md-6 portfolio-item">
+        <div class="portfolio-content h-100 text-center">
+          <a href="assets/img/portfolio/anh8-1.jpg" class="glightbox" data-gallery="hoatdong-gallery" title="Cùng Giám đốc châu Á hãng Jogger thăm và làm việc tại Văn phòng chính tập đoàn tại Bỉ, và thăm quan một số nước châu Âu.">
+            <img src="assets/img/portfolio/anh8.jpg" class="img-fluid" alt="Workshop 3">
+          </a>
+          <div class="portfolio-info">
+            <p>Thăm và làm việc tại Văn phòng chính tập đoàn Cortina tại Bỉ</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Ảnh 4 -->
+      <div class="col-lg-4 col-md-6 portfolio-item">
+        <div class="portfolio-content h-100 text-center">
+          <a href="assets/img/portfolio/hoatdong-3.jpg" class="glightbox" data-gallery="hoatdong-gallery" title="Hội thảo chia sẽ chủ đề KPI.">
+            <img src="assets/img/portfolio/hoatdong-3.jpg" class="img-fluid" alt="Hội nghị 4">
+          </a>
+          <div class="portfolio-info">
+            <p>Hội thảo chia sẽ chủ đề KPI</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Ảnh 5 -->
+      <div class="col-lg-4 col-md-6 portfolio-item">
+        <div class="portfolio-content h-100 text-center">
+          <a href="assets/img/portfolio/anh9.jpg" class="glightbox" data-gallery="hoatdong-gallery" title="Chia sẻ, giao lưu với cộng đồng doanh nghiệp, doanh nhân.">
+            <img src="assets/img/portfolio/anh9.jpg" class="img-fluid" alt="Triển lãm 5">
+          </a>
+          <div class="portfolio-info">
+            <p>Chia sẻ, giao lưu với cộng đồng doanh nghiệp, doanh nhân</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Ảnh 6 -->
+      <div class="col-lg-4 col-md-6 portfolio-item">
+        <div class="portfolio-content h-100 text-center">
+          <a href="assets/img/portfolio/anh10.jpg" class="glightbox" data-gallery="hoatdong-gallery" title="Chia sẻ kinh nghiệm khởi nghiệp với Sinh viên Đại học Hà Tĩnh.">
+            <img src="assets/img/portfolio/anh10.jpg" class="img-fluid" alt="Tọa đàm 6">
+          </a>
+          <div class="portfolio-info">
+            <p>Chia sẻ kinh nghiệm khởi nghiệp với Sinh viên Đại học Hà Tĩnh</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /Hoạt động khác Section -->
     <!-- Brand Support Section -->
     <section class="section bg-light" id="brand-support">
     <div class="container section-title" data-aos="fade-up">
@@ -347,8 +349,8 @@
     <!-- Media Coverage Section -->
   <section class="section bg-light" id="media">
     <div class="container section-title" data-aos="fade-up">
-      <h2>Truyền thông nói về tôi</h2>
-      <p>Những bài báo, phóng sự và ghi nhận từ các kênh truyền thông uy tín</p>
+      <h2>Báo chí nói về tôi</h2>
+      <p>Hành trình được truyền tải qua những bài viết, chương trình và góc nhìn từ các kênh báo chí – nơi câu chuyện cá nhân trở thành nguồn cảm hứng cho cộng đồng.</p>
     </div>
 
     <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -398,19 +400,6 @@
           </div>
         </div>
 
-        <!-- Slide 4 -->
-        <div class="swiper-slide">
-        <a href="https://baohatinh.vn/cong-ty-viet-nam-marketing-tu-y-tuong-khoi-nghiep-xuat-sac-den-doanh-nghiep-marketing-tieu-bieu-post274879.html"
-          target="_blank" class="text-decoration-none text-reset">
-          <div class="card border-0 shadow-sm h-100">
-          <img src="assets/img/baochi/baochi-4.png" class="card-img-top" alt="Giáo dục & Thời đại">
-          <div class="card-body">
-            <h5 class="card-title">Công ty Việt Nam Marketing:</h5>
-            <p class="card-text">Từ ý tưởng khởi nghiệp xuất sắc đến doanh nghiệp Marketing tiêu biểu.</p>
-          </div>
-          </div>
-        </div>
-
         <!-- Slide 5 -->
         <div class="swiper-slide">
         <a href="https://vietnammarketing.com.vn/cong-ty-viet-nam-marketing-tu-y-tuong-khoi-nghiep-xuat-sac-den-doanh-nghiep-marketing-tieu-bieu-nguon-bao-ha-tinh/"
@@ -423,6 +412,20 @@
           </div>
           </div>
         </div>
+
+                <!-- Slide 4 -->
+        <div class="swiper-slide">
+        <a href="https://baohatinh.vn/cong-ty-viet-nam-marketing-tu-y-tuong-khoi-nghiep-xuat-sac-den-doanh-nghiep-marketing-tieu-bieu-post274879.html"
+          target="_blank" class="text-decoration-none text-reset">
+          <div class="card border-0 shadow-sm h-100">
+          <img src="assets/img/baochi/baochi-4.png" class="card-img-top" alt="Giáo dục & Thời đại">
+          <div class="card-body">
+            <h5 class="card-title">Công ty Việt Nam Marketing:</h5>
+            <p class="card-text">Từ ý tưởng khởi nghiệp xuất sắc đến doanh nghiệp Marketing tiêu biểu.</p>
+          </div>
+          </div>
+        </div>
+
 
       </div>
 
@@ -437,8 +440,8 @@
 
     <section class="section bg-light" id="business-perspective">
     <div class="container section-title" data-aos="fade-up">
-      <h2>Góc nhìn Doanh Nhân</h2>
-      <p>Những chia sẻ, phân tích và góc nhìn thực tế từ hành trình điều hành và khởi nghiệp</p>
+      <h2>Tôi tham gia với báo chí, tham luận, bài viết</h2>
+      <p>Các bài viết, tọa đàm và phân tích chiến lược từ trải nghiệm điều hành doanh nghiệp thực tế.</p>
     </div>
 
     <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -460,19 +463,7 @@
         </a>
         </div>
 
-        <!-- Slide 2 -->
-        <div class="swiper-slide">
-        <a href="https://baohatinh.vn/thuong-mai-hoa-nhieu-y-tuong-khoi-nghiep-o-ha-tinh-post254033.html?fbclid=IwY2xjawJ9dBRleHRuA2FlbQIxMABicmlkETFYSjgwU3pTY1lyT2JFSjlmAR64LG-uHmjkEr5ZEUiyLaONIQveScWmrL5fFrbx0_ZMq_Ntb8uqBOHl72R3jA_aem_rpoQK4PFmLIy7VkSYyLlvg"
-          class="text-decoration-none text-reset">
-          <div class="card border-0 shadow-sm h-100">
-          <img src="assets/img/baochi/baochi-4.png" class="card-img-top" alt="Bài viết 2">
-          <div class="card-body">
-            <h5 class="card-title">Báo Hà Tĩnh</h5>
-            <p class="card-text">Thương mại hóa nhiều ý tưởng khởi nghiệp ở Hà Tĩnh</p>
-          </div>
-          </div>
-        </a>
-        </div>
+
 
         <!-- Slide 3 -->
         <div class="swiper-slide">
@@ -483,6 +474,20 @@
           <div class="card-body">
             <h5 class="card-title">Việt Nam Marketing</h5>
             <p class="card-text">Giám đốc VIMA chia sẻ kinh nghiệm khởi nghiệp với Sinh viên Đại học Hà Tĩnh</p>
+          </div>
+          </div>
+        </a>
+        </div>
+
+                <!-- Slide 2 -->
+        <div class="swiper-slide">
+        <a href="https://baohatinh.vn/thuong-mai-hoa-nhieu-y-tuong-khoi-nghiep-o-ha-tinh-post254033.html?fbclid=IwY2xjawJ9dBRleHRuA2FlbQIxMABicmlkETFYSjgwU3pTY1lyT2JFSjlmAR64LG-uHmjkEr5ZEUiyLaONIQveScWmrL5fFrbx0_ZMq_Ntb8uqBOHl72R3jA_aem_rpoQK4PFmLIy7VkSYyLlvg"
+          class="text-decoration-none text-reset">
+          <div class="card border-0 shadow-sm h-100">
+          <img src="assets/img/baochi/baochi-4.png" class="card-img-top" alt="Bài viết 2">
+          <div class="card-body">
+            <h5 class="card-title">Báo Hà Tĩnh</h5>
+            <p class="card-text">Thương mại hóa nhiều ý tưởng khởi nghiệp ở Hà Tĩnh</p>
           </div>
           </div>
         </a>
@@ -511,6 +516,38 @@
       </div>
     </div>
     </section>
+
+    <!-- Video Trao Giải Section -->
+<section class="portfolio section bg-light" id="video-awards">
+  <div class="container section-title" data-aos="fade-up">
+    <h2>Khoảnh Khắc Vinh Danh</h2>
+    <p>Ghi lại những dấu ấn đáng nhớ trong hành trình được công nhận và vinh danh từ các tổ chức uy tín.</p>
+
+  </div>
+
+  <div class="container">
+    <div class="row gy-4" data-aos="fade-up" data-aos-delay="200">
+      <!-- Video 1 -->
+      <div class="col-lg-6 col-md-12 portfolio-item">
+        <div class="portfolio-content h-100 text-center">
+          <div class="ratio ratio-16x9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1uMMX-idZjs?si=9OHzG7qPZrL4PX6y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>          </div>
+
+        </div>
+      </div>
+
+      <!-- Video 2 -->
+      <div class="col-lg-6 col-md-12 portfolio-item">
+        <div class="portfolio-content h-100 text-center">
+          <div class="ratio ratio-16x9">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/nKh7y7-b83s?si=DCPQ_sVGjIVXcuNC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
 
     <section class="section" id="my-business">
     <div class="container section-title" data-aos="fade-up">
@@ -558,7 +595,7 @@
   <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
   <!-- Main JS File -->
   <script src="assets/js/main.js"></script>
-  <style>
+    <style>
     .portfolio .portfolio-info {
     pointer-events: none;
     }
@@ -568,5 +605,26 @@
     font-weight: 700;
     line-height: 1.6;
     }
+    .btn-outline-primary{
+    background-color: #fff !important;
+    color: #0f2a7c !important;
+    border: 1px solid #0f2a7c;
+    }
+    .btn-outline-primary:hover{
+    background-color: #0f2a7c !important;
+    color: #fff !important;
+    }
   </style>
+  <script>
+  const toggleBtn = document.getElementById("toggleMoreBtn");
+  const collapseElement = document.getElementById("moreInfo");
+
+  collapseElement.addEventListener("show.bs.collapse", function () {
+    toggleBtn.innerHTML = '<span>Thu gọn </span><i class="bi bi-arrow-up"></i>';
+  });
+
+  collapseElement.addEventListener("hide.bs.collapse", function () {
+    toggleBtn.innerHTML = '<span>Xem thêm </span><i class="bi bi-arrow-down"></i>';
+  });
+</script>
 @endsection
