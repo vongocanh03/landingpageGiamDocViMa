@@ -602,7 +602,16 @@ section,
   color: var(--accent-color);
 }
 
+/* Responsive - Mobile */
 @media (max-width: 768px) {
+  .hero {
+    min-height: 56vh; /* Giảm chiều cao Hero trên mobile */
+  }
+
+  .hero img {
+    object-position: center top; /* Căn ảnh về phía trên để hiển thị phần quan trọng */
+  }
+
   .hero h2 {
     font-size: 32px;
   }
@@ -610,6 +619,9 @@ section,
   .hero p {
     font-size: 20px;
   }
+}
+.footer .social-links a i {
+  color: #fff !important; /* hoặc màu bạn muốn */
 }
 .portfolio .portfolio-info {
   pointer-events: none;
@@ -631,7 +643,7 @@ section,
 }
 
 .about .content h3 {
-  font-size: 1.55rem;
+  font-size: 1.20rem;
   font-weight: 700;
   line-height: 1.6;
 }
